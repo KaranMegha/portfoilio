@@ -24,8 +24,8 @@ export const Projects = () => {
       title: "Weather App",
       description: "A weather app",
       imgUrl: WeatherApp,
-      githublink:"https://github.com/KaranMegha/Weather_app",
-      exlink:"https://karanmegha.github.io/Weather_app/",
+      githublink:"https://github.com/KaranMegha/new_weather_app",
+      exlink:"https://newweather.netlify.app/",
     },
     {
       title: "Music Player",
@@ -38,8 +38,8 @@ export const Projects = () => {
       title: "Stack-Overflow-Clone",
       description: "stack-Overflow-Clone",
       imgUrl: Stack,
-      githublink:"https://github.com/KaranMegha/new_weather_app",
-      exlink:"https://newweather.netlify.app/",
+      githublink:"https://github.com/KaranMegha/stack-overflow-clone",
+      exlink:"https://stackclone1.netlify.app/",
     },
     {
       title: "Snake Game",
