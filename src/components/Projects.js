@@ -5,10 +5,9 @@ import WeatherApp from "../assets/img/Weather_app.jpg";
 import Music from "../assets/img/Music_player.jpg";
 import Stack from "../assets/img/stack-clone.jpg";
 import Snake from "../assets/img/snake.jpg";
-import Calculator from "../assets/img/calculator.jpg";
+import Youtube from "../assets/img/youtube.jpg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import { StackOverflow } from "react-bootstrap-icons";
 
 export const Projects = () => {
 
@@ -49,11 +48,11 @@ export const Projects = () => {
       exlink:"https://karanmegha.github.io/Snake_game/",
     },
     {
-      title: "React Calculator",
-      description: "Calculator made with react",
-      imgUrl: Calculator,
-      githublink:"https://github.com/KaranMegha/React_calculator",
-      exlink:"https://calculator-react99.herokuapp.com/",
+      title: "Youtube Clone",
+      description: "Youtube clone made with react",
+      imgUrl: Youtube,
+      githublink:"https://github.com/KaranMegha/youtube_clone",
+      exlink:"https://youtube-clone-2tl.pages.dev/",
     },
   ];
   // const project_tab2 = [
