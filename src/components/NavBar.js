@@ -54,7 +54,7 @@ export const NavBar = () => {
                 <a href="https://github.com/KaranMegha"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/karan__megha/"><img src={navIcon3} alt="" /></a>
               </div>
-              <a href='https://drive.google.com/file/d/1-s_GH8z96OHY6ml2G9XZDPcCEKde5k_c/view?usp=sharing'>
+              <a href='https://drive.google.com/file/d/1CMptNDkFbxSavJ-xgOqxfwQ7V-UaSKWJ/view?usp=sharing'>
                 <button className="vvd"><span>Resume</span></button>
               </a>
             </span>
