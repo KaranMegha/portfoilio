@@ -110,15 +110,26 @@ nav.navbar {
     transition: 0.32s ease-in-out;
 }
 
+@media (max-width:900px) {
+    nav.navbar {
+        padding: 18px 0;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 9999;
+        transition: 0.32s ease-in-out;
+        padding: 0px 0;
+        background-color: rgba(235, 255, 252, );
+        backdrop-filter: blur(10px);
+        border-bottom: #000 solid 1px;
+    }
+}
+
 nav.navbar.scrolled {
     padding: 0px 0;
     background-color: rgba(235, 255, 252, );
     backdrop-filter: blur(10px);
     border-bottom: #000 solid 1px;
-}
-
-nav.navbar .logo {
-    width: 50%;
 }
 
 nav.navbar a.navbar-brand {
