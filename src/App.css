@@ -112,12 +112,12 @@ nav.navbar {
 
 @media (max-width:900px) {
     nav.navbar {
-        padding: 15px 0;
         position: fixed;
         width: 100%;
         top: 0;
         z-index: 9999;
         transition: 0.32s ease-in-out;
+        padding: 15px 0;
         background-color: rgba(235, 255, 252, );
         backdrop-filter: blur(10px);
         border-bottom: #000 solid 1px;
@@ -125,7 +125,7 @@ nav.navbar {
 }
 
 nav.navbar.scrolled {
-    padding: 0px 0;
+    padding: 10px 0;
     background-color: rgba(235, 255, 252, );
     backdrop-filter: blur(10px);
     border-bottom: #000 solid 1px;
