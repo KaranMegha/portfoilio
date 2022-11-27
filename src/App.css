@@ -350,7 +350,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
         ;
     }
     50% {
-        transform: translateX(120px) translateY(120px)
+        transform: translateY(120px)
     }
     100% {
         transform: translateY(0px);
